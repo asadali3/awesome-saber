@@ -2,6 +2,8 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+i am edit somthing
+
 ## Plugins
 
 - [saber-plugin-query-posts](https://github.com/egoist/saber/tree/master/packages/saber-plugin-query-posts): Query posts and inject them to specific pages. Useful when you're writing a blog. (Included by Saber's default blog starter)
